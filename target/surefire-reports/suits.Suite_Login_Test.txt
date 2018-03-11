@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: suits.Suite_Login_Test
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 434.221 s <<< FAILURE! - in suits.Suite_Login_Test
+failedValidLogin[login =test1@uemail99.com pass = 123456](loginTest.LoginViaPopup)  Time elapsed: 55.288 s  <<< FAILURE!
+java.lang.AssertionError: User should be logIn Browser - chrome  expected:<true> but was:<false>
+	at loginTest.LoginViaPopup.failedValidLogin(LoginViaPopup.java:46)
+

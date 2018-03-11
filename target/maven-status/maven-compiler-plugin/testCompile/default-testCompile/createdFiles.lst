@@ -1,0 +1,5 @@
+loginTest\LoginViaPopup.class
+suits\Suite_Login_Test.class
+parentTest\ParentTest.class
+homsters\AppTest.class
+loginTest\LoginViaLoginPage.class

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="suits.Suite_Login_Test" time="434.221" tests="13" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="idea.version" value="2017.2.6"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\bin"/>
+    <property name="java.vm.version" value="25.151-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Нова папка\my_PC\My_framework\homsters"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="UA"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="test" value="Suite_Login_Test"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Нова папка\my_PC\My_framework\homsters"/>
+    <property name="java.runtime.version" value="1.8.0_151-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\User\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.5\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_151\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Chromedriver;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;D:\_install\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\Users\User\AppData\Local\Microsoft\WindowsApps;;C:\Users\User\AppData\Local\Programs\Fiddler;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="maven.test.failure.ignore" value="true"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\User"/>
+    <property name="user.timezone" value="Europe/Helsinki"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="User"/>
+    <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.5\plugins\maven\lib\maven3\boot\plexus-classworlds-2.5.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.5\lib\idea_rt.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_151\jre"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2017.2.6 clean test -Dtest=Suite_Login_Test allure:serve -Dmaven.test.failure.ignore=true"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="uk"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_151"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_151\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.5\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="loginWithoutCredentials[login =test1@uemail99.com pass = 123456]" classname="loginTest.LoginViaPopup" time="63.502"/>
+  <testcase name="loginWithoutLogin[login =test1@uemail99.com pass = 123456]" classname="loginTest.LoginViaPopup" time="59.412"/>
+  <testcase name="failedValidLogin[login =test1@uemail99.com pass = 123456]" classname="loginTest.LoginViaPopup" time="55.288">
+    <failure message="User should be logIn Browser - chrome  expected:&lt;true&gt; but was:&lt;false&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: User should be logIn Browser - chrome  expected:<true> but was:<false>
+	at loginTest.LoginViaPopup.failedValidLogin(LoginViaPopup.java:46)
+]]></failure>
+    <system-out><![CDATA[19:13:03   INFO [            MainPage:70  ] : Login page was opened
+19:13:04   INFO [ActionsWithOurElement:55  ] : Element was clicked [[ChromeDriver: chrome on XP (d33925b30fdcefc4610b56e5ec60cc42)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+19:13:04   INFO [ActionsWithOurElement:40  ] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (d33925b30fdcefc4610b56e5ec60cc42)] -> id: mail_or_email_login]
+19:13:05   INFO [ActionsWithOurElement:40  ] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (d33925b30fdcefc4610b56e5ec60cc42)] -> id: user_password_login]
+19:13:05   INFO [ActionsWithOurElement:55  ] : Element was clicked [[ChromeDriver: chrome on XP (d33925b30fdcefc4610b56e5ec60cc42)] -> xpath: //*[@for='remember_me_login']]
+19:13:05   INFO [ActionsWithOurElement:55  ] : Element was clicked [[ChromeDriver: chrome on XP (d33925b30fdcefc4610b56e5ec60cc42)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+19:13:09   INFO [ActionsWithOurElement:165 ] : Is Element  Present ? - true
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f) on port 21756
+Only local connections are allowed.
+бер. 11, 2018 7:12:17 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="validLogin[login =test1@uemail99.com pass = 123456]" classname="loginTest.LoginViaPopup" time="12.322"/>
+  <testcase name="loginWithoutPassword[login =test1@uemail99.com pass = 123456]" classname="loginTest.LoginViaPopup" time="18.128"/>
+  <testcase name="loginWithInvalidCredentials[login =test1@uemail99.com pass = 123456]" classname="loginTest.LoginViaPopup" time="18.248"/>
+  <testcase name="loginWithoutCredentials[login =test1@uemail99.com pass = 123456]" classname="loginTest.LoginViaLoginPage" time="28.938"/>
+  <testcase name="loginWithInvalidEmail[login =test1@uemail99.com pass = 123456]" classname="loginTest.LoginViaLoginPage" time="29.747"/>
+  <testcase name="loginWithInvalidShortPassword[login =test1@uemail99.com pass = 123456]" classname="loginTest.LoginViaLoginPage" time="29.232"/>
+  <testcase name="loginWithoutEmail[login =test1@uemail99.com pass = 123456]" classname="loginTest.LoginViaLoginPage" time="30.212"/>
+  <testcase name="loginWithInvalidPassword[login =test1@uemail99.com pass = 123456]" classname="loginTest.LoginViaLoginPage" time="32.932"/>
+  <testcase name="loginViaValidCredentials[login =test1@uemail99.com pass = 123456]" classname="loginTest.LoginViaLoginPage" time="24.964"/>
+  <testcase name="loginWithoutPassword[login =test1@uemail99.com pass = 123456]" classname="loginTest.LoginViaLoginPage" time="30.984"/>
+</testsuite>

@@ -1,0 +1,1187 @@
+2018-08-03 18:19:02  INFO [pages.MainPage] : Login page was opened
+2018-08-03 18:19:12  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-08-03 18:19:53  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-08-03 22:49:30  INFO [pages.MainPage] : Login page was opened
+2018-08-03 22:49:41  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-08-03 22:50:22  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-08-03 22:53:48  INFO [pages.MainPage] : Login page was opened
+2018-08-03 22:53:58  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-08-03 22:54:39  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-08-03 22:56:46  INFO [pages.MainPage] : Login page was opened
+2018-08-03 22:56:57  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-08-03 22:57:38  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-08-03 22:59:26  INFO [pages.MainPage] : Login page was opened
+2018-08-03 22:59:37  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-08-03 23:00:18  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-08-03 23:06:07  INFO [pages.MainPage] : Login page was opened
+2018-08-03 23:06:17  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-08-03 23:06:59  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-08-03 23:08:39  INFO [pages.MainPage] : Login page was opened
+2018-08-03 23:08:49  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-08-03 23:09:31  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-08-03 23:14:50  INFO [pages.MainPage] : Login page was opened
+2018-08-03 23:15:00  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-08-03 23:15:41  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-08-03 23:17:48  INFO [pages.MainPage] : Login page was opened
+2018-08-03 23:17:59  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-08-03 23:18:00  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (10e2aca0100a74c6275585f35c70db90)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-08-03 23:18:00  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (10e2aca0100a74c6275585f35c70db90)] -> id: UserName]
+2018-08-03 23:18:00  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (10e2aca0100a74c6275585f35c70db90)] -> id: Password]
+2018-08-03 23:18:04  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (10e2aca0100a74c6275585f35c70db90)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-08-03 23:31:36  INFO [pages.MainPage] : Login page was opened
+2018-08-03 23:31:47  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-08-03 23:31:48  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5b4d56d29f07c3c30b611d9d9b6255b2)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-08-03 23:31:48  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (5b4d56d29f07c3c30b611d9d9b6255b2)] -> id: UserName]
+2018-08-03 23:31:48  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (5b4d56d29f07c3c30b611d9d9b6255b2)] -> id: Password]
+2018-08-03 23:31:52  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5b4d56d29f07c3c30b611d9d9b6255b2)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-08-03 23:32:35  INFO [pages.MainPage] : Login page was opened
+2018-08-03 23:32:45  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-08-03 23:32:47  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (c0cbc375478ba4ae53a03dbe968511bd)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-08-03 23:32:47  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (c0cbc375478ba4ae53a03dbe968511bd)] -> id: UserName]
+2018-08-03 23:32:47  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (c0cbc375478ba4ae53a03dbe968511bd)] -> id: Password]
+2018-08-03 23:32:52  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (c0cbc375478ba4ae53a03dbe968511bd)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-08-03 23:34:28  INFO [pages.MainPage] : Login page was opened
+2018-08-03 23:34:38  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-08-03 23:34:39  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (c64292dd6b6d8f076f86af3f5cbd8091)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-08-03 23:34:39  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (c64292dd6b6d8f076f86af3f5cbd8091)] -> id: UserName]
+2018-08-03 23:34:40  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (c64292dd6b6d8f076f86af3f5cbd8091)] -> id: Password]
+2018-08-03 23:34:44  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (c64292dd6b6d8f076f86af3f5cbd8091)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-08-03 23:34:44  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 00:11:38  INFO [pages.MainPage] : Login page was opened
+2018-09-03 00:11:48  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 00:11:49  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6a34cd5c901986c3127f502a6bb18bf5)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 00:12:02  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.id: Google'
+2018-09-03 00:12:02  INFO [ActionsWithOurElement] : testapp0816@gmail.com was inputed in to input [[ChromeDriver: chrome on XP (6a34cd5c901986c3127f502a6bb18bf5)] -> id: identifierId]
+2018-09-03 00:12:44  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-09-03 00:14:06  INFO [pages.MainPage] : Login page was opened
+2018-09-03 00:14:16  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 00:14:17  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (57e882d540d2a69063956d4056bf528a)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 00:14:28  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.id: Google'
+2018-09-03 00:14:29  INFO [ActionsWithOurElement] : testapp0816@gmail.com was inputed in to input [[ChromeDriver: chrome on XP (57e882d540d2a69063956d4056bf528a)] -> id: identifierId]
+2018-09-03 00:14:44  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-09-03 00:21:32  INFO [pages.MainPage] : Login page was opened
+2018-09-03 00:21:43  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 00:21:44  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6da45994d44997456fa6ed673ea251d4)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 00:21:55  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.id: Google'
+2018-09-03 00:21:56  INFO [ActionsWithOurElement] : testapp0816@gmail.com was inputed in to input [[ChromeDriver: chrome on XP (6da45994d44997456fa6ed673ea251d4)] -> id: identifierId]
+2018-09-03 00:21:56  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6da45994d44997456fa6ed673ea251d4)] -> id: identifierNext]
+2018-09-03 00:21:56  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-09-03 00:24:02  INFO [pages.MainPage] : Login page was opened
+2018-09-03 00:24:13  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 00:24:14  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (02c19174396e39887f28942649c82367)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 00:24:25  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.id: Google'
+2018-09-03 00:24:26  INFO [ActionsWithOurElement] : testapp0816@gmail.com was inputed in to input [[ChromeDriver: chrome on XP (02c19174396e39887f28942649c82367)] -> id: identifierId]
+2018-09-03 00:24:26  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (02c19174396e39887f28942649c82367)] -> id: identifierNext]
+2018-09-03 00:24:26  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-09-03 00:26:47  INFO [pages.MainPage] : Login page was opened
+2018-09-03 00:26:57  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 00:26:58  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (4e5ab0274e762966d72977a1669cff48)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 00:27:09  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.id: Google'
+2018-09-03 00:27:09  INFO [ActionsWithOurElement] : testapp0816@gmail.com was inputed in to input [[ChromeDriver: chrome on XP (4e5ab0274e762966d72977a1669cff48)] -> id: identifierId]
+2018-09-03 00:27:31  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-09-03 00:30:21  INFO [pages.MainPage] : Login page was opened
+2018-09-03 00:30:31  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 00:30:32  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (078a79683c60e9c69ca88ac0b19ed877)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 00:30:44  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.id: Google'
+2018-09-03 00:30:44  INFO [ActionsWithOurElement] : testapp0816@gmail.com was inputed in to input [[ChromeDriver: chrome on XP (078a79683c60e9c69ca88ac0b19ed877)] -> id: identifierId]
+2018-09-03 00:30:44  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (078a79683c60e9c69ca88ac0b19ed877)] -> id: identifierNext]
+2018-09-03 00:30:45  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-09-03 00:32:57  INFO [pages.MainPage] : Login page was opened
+2018-09-03 00:33:07  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 00:33:09  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (08f1626df39d29eead10795268b515de)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 00:33:20  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.id: Google'
+2018-09-03 00:33:20  INFO [ActionsWithOurElement] : testapp0816@gmail.com was inputed in to input [[ChromeDriver: chrome on XP (08f1626df39d29eead10795268b515de)] -> id: identifierId]
+2018-09-03 00:33:20  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (08f1626df39d29eead10795268b515de)] -> id: identifierNext]
+2018-09-03 00:33:21  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-09-03 00:40:40  INFO [pages.MainPage] : Login page was opened
+2018-09-03 00:40:50  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 00:40:51  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (801573c880469a93fee9683ea7cda24e)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 00:41:03  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.id: Google'
+2018-09-03 00:41:03  INFO [ActionsWithOurElement] : testapp0816@gmail.com was inputed in to input [[ChromeDriver: chrome on XP (801573c880469a93fee9683ea7cda24e)] -> id: identifierId]
+2018-09-03 00:41:03  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (801573c880469a93fee9683ea7cda24e)] -> id: identifierNext]
+2018-09-03 00:41:03  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-09-03 00:42:20  INFO [pages.MainPage] : Login page was opened
+2018-09-03 00:42:30  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 00:42:31  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2b4dcb5b4df355f0d20f889dacc9a532)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 00:42:44  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.id: Google'
+2018-09-03 00:42:45  INFO [ActionsWithOurElement] : testapp0816@gmail.com was inputed in to input [[ChromeDriver: chrome on XP (2b4dcb5b4df355f0d20f889dacc9a532)] -> id: identifierId]
+2018-09-03 00:42:45  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2b4dcb5b4df355f0d20f889dacc9a532)] -> id: identifierNext]
+2018-09-03 00:42:45  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-09-03 00:46:09  INFO [pages.MainPage] : Login page was opened
+2018-09-03 00:46:19  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 00:46:20  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (dc359a747706fde6d9787dcc816bd7ee)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 00:46:32  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.id: Google'
+2018-09-03 00:46:32  INFO [ActionsWithOurElement] : testapp0816@gmail.com was inputed in to input [[ChromeDriver: chrome on XP (dc359a747706fde6d9787dcc816bd7ee)] -> id: identifierId]
+2018-09-03 00:46:32  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (dc359a747706fde6d9787dcc816bd7ee)] -> id: identifierNext]
+2018-09-03 00:46:33  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-09-03 00:55:10  INFO [pages.MainPage] : Login page was opened
+2018-09-03 00:55:20  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 00:55:21  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (865559aaead70af59f1d138708f71a99)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 00:55:22  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (865559aaead70af59f1d138708f71a99)] -> id: UserName]
+2018-09-03 00:55:22  INFO [ActionsWithOurElement] : 123 was inputed in to input [[ChromeDriver: chrome on XP (865559aaead70af59f1d138708f71a99)] -> id: Password]
+2018-09-03 00:55:22  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (865559aaead70af59f1d138708f71a99)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 00:55:22  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 00:59:42  INFO [pages.MainPage] : Login page was opened
+2018-09-03 00:59:52  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 00:59:53  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5978bad884404e83171742cbbe3d5e64)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 00:59:54  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (5978bad884404e83171742cbbe3d5e64)] -> id: UserName]
+2018-09-03 00:59:54  INFO [ActionsWithOurElement] : 123 was inputed in to input [[ChromeDriver: chrome on XP (5978bad884404e83171742cbbe3d5e64)] -> id: Password]
+2018-09-03 00:59:54  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5978bad884404e83171742cbbe3d5e64)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 00:59:54  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:02:18  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:02:28  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:02:33  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (426a6365188db931155eae068c5bee89)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:02:33  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (426a6365188db931155eae068c5bee89)] -> id: UserName]
+2018-09-03 01:02:33  INFO [ActionsWithOurElement] : 123 was inputed in to input [[ChromeDriver: chrome on XP (426a6365188db931155eae068c5bee89)] -> id: Password]
+2018-09-03 01:02:34  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (426a6365188db931155eae068c5bee89)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:02:34  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:08:57  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:09:07  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:09:08  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (c871e10d3eeb351006ff363ea85569da)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:09:08  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (c871e10d3eeb351006ff363ea85569da)] -> id: UserName]
+2018-09-03 01:09:09  INFO [ActionsWithOurElement] : Invalid password123 was inputed in to input [[ChromeDriver: chrome on XP (c871e10d3eeb351006ff363ea85569da)] -> id: Password]
+2018-09-03 01:09:13  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (c871e10d3eeb351006ff363ea85569da)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:09:13  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:11:13  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:11:23  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:11:24  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (3c155481640cc292bf941b36c52f6ac7)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:11:24  INFO [ActionsWithOurElement] : invalid@email.com was inputed in to input [[ChromeDriver: chrome on XP (3c155481640cc292bf941b36c52f6ac7)] -> id: UserName]
+2018-09-03 01:11:24  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (3c155481640cc292bf941b36c52f6ac7)] -> id: Password]
+2018-09-03 01:11:26  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (3c155481640cc292bf941b36c52f6ac7)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:11:26  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:20:49  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:20:59  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:21:00  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (d6fb35fb2ca2f6e769da57454a50e13a)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:21:01  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (d6fb35fb2ca2f6e769da57454a50e13a)] -> id: UserName]
+2018-09-03 01:21:01  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (d6fb35fb2ca2f6e769da57454a50e13a)] -> id: Password]
+2018-09-03 01:21:01  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (d6fb35fb2ca2f6e769da57454a50e13a)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:21:09  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 01:23:34  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:23:44  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:23:45  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (1c28fcf92dd74c2c8c3b3982b3a9a3f6)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:23:46  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (1c28fcf92dd74c2c8c3b3982b3a9a3f6)] -> id: UserName]
+2018-09-03 01:23:46  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (1c28fcf92dd74c2c8c3b3982b3a9a3f6)] -> id: Password]
+2018-09-03 01:23:46  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (1c28fcf92dd74c2c8c3b3982b3a9a3f6)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:23:46  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:33:25  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:33:35  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:33:36  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (336854fb0a07b6be92b187dc85921685)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:33:36  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (336854fb0a07b6be92b187dc85921685)] -> id: UserName]
+2018-09-03 01:33:36  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (336854fb0a07b6be92b187dc85921685)] -> id: Password]
+2018-09-03 01:33:37  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (336854fb0a07b6be92b187dc85921685)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:33:37  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:35:52  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:36:02  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:36:03  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (4ec62a4fe4e7af3b57cf4cfcfa60b733)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:36:04  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (4ec62a4fe4e7af3b57cf4cfcfa60b733)] -> id: UserName]
+2018-09-03 01:36:04  INFO [ActionsWithOurElement] : 123 was inputed in to input [[ChromeDriver: chrome on XP (4ec62a4fe4e7af3b57cf4cfcfa60b733)] -> id: Password]
+2018-09-03 01:36:04  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (4ec62a4fe4e7af3b57cf4cfcfa60b733)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:36:04  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:38:21  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:38:31  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:38:32  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (508ba412620bd1a6de69951127ca978c)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:38:32  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (508ba412620bd1a6de69951127ca978c)] -> id: UserName]
+2018-09-03 01:38:33  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (508ba412620bd1a6de69951127ca978c)] -> id: Password]
+2018-09-03 01:38:33  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (508ba412620bd1a6de69951127ca978c)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:38:33  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:38:33  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:41:56  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:42:06  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:42:08  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (62192d67b0e69f1a4de42b9ee696c299)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:42:08  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (62192d67b0e69f1a4de42b9ee696c299)] -> id: UserName]
+2018-09-03 01:42:08  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (62192d67b0e69f1a4de42b9ee696c299)] -> id: Password]
+2018-09-03 01:42:08  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (62192d67b0e69f1a4de42b9ee696c299)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:42:08  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:42:09  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:42:09  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:43:52  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:44:02  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:44:05  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5d6648f15ea7a673c821b1d84e33c77b)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:44:05  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (5d6648f15ea7a673c821b1d84e33c77b)] -> id: UserName]
+2018-09-03 01:44:05  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (5d6648f15ea7a673c821b1d84e33c77b)] -> id: Password]
+2018-09-03 01:44:06  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5d6648f15ea7a673c821b1d84e33c77b)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:44:06  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:44:06  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:44:06  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:44:54  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:45:04  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:45:05  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5f1a4e090a3395d59ca675184cf54d96)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:45:05  INFO [ActionsWithOurElement] : invalid@email.com was inputed in to input [[ChromeDriver: chrome on XP (5f1a4e090a3395d59ca675184cf54d96)] -> id: UserName]
+2018-09-03 01:45:06  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (5f1a4e090a3395d59ca675184cf54d96)] -> id: Password]
+2018-09-03 01:45:07  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5f1a4e090a3395d59ca675184cf54d96)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:45:07  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:45:07  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:45:55  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:46:06  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:46:07  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (42017f91090e795c7ede93c98d881f81)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:46:07  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (42017f91090e795c7ede93c98d881f81)] -> id: UserName]
+2018-09-03 01:46:07  INFO [ActionsWithOurElement] : 123 was inputed in to input [[ChromeDriver: chrome on XP (42017f91090e795c7ede93c98d881f81)] -> id: Password]
+2018-09-03 01:46:08  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (42017f91090e795c7ede93c98d881f81)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:46:08  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:46:08  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:46:36  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:46:46  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:46:47  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (111eccd16f7ece1814205b500e0d7f97)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:46:47  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (111eccd16f7ece1814205b500e0d7f97)] -> id: UserName]
+2018-09-03 01:46:48  INFO [ActionsWithOurElement] : Invalid password123 was inputed in to input [[ChromeDriver: chrome on XP (111eccd16f7ece1814205b500e0d7f97)] -> id: Password]
+2018-09-03 01:46:52  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (111eccd16f7ece1814205b500e0d7f97)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:46:52  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:46:52  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:47:20  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:47:30  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:47:34  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6be997a284880fc14944b2258e3ed1af)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:47:34  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (6be997a284880fc14944b2258e3ed1af)] -> id: UserName]
+2018-09-03 01:47:34  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (6be997a284880fc14944b2258e3ed1af)] -> id: Password]
+2018-09-03 01:47:34  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6be997a284880fc14944b2258e3ed1af)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:47:35  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:47:35  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:48:03  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:48:13  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:48:14  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (cb2dea56b188e9cec58a77de0e6fdb47)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:48:15  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (cb2dea56b188e9cec58a77de0e6fdb47)] -> id: UserName]
+2018-09-03 01:48:15  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (cb2dea56b188e9cec58a77de0e6fdb47)] -> id: Password]
+2018-09-03 01:48:15  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (cb2dea56b188e9cec58a77de0e6fdb47)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:48:15  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:48:15  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 01:48:43  INFO [pages.MainPage] : Login page was opened
+2018-09-03 01:48:53  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 01:48:54  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (ef7d7271934f4a6195eca9f2a66c4f07)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 01:48:54  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (ef7d7271934f4a6195eca9f2a66c4f07)] -> id: UserName]
+2018-09-03 01:48:54  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (ef7d7271934f4a6195eca9f2a66c4f07)] -> id: Password]
+2018-09-03 01:48:59  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (ef7d7271934f4a6195eca9f2a66c4f07)] -> xpath: //*[text()='Р’РѕР№С‚Рё']]
+2018-09-03 01:48:59  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 14:06:03  INFO [pages.MainPage] : Login page was opened
+2018-09-03 14:06:04  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (4cad3bffcb623e2c3e138ee1d2a2cce0)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 14:06:04  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (4cad3bffcb623e2c3e138ee1d2a2cce0)] -> id: mail_or_email_login]
+2018-09-03 14:06:04  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (4cad3bffcb623e2c3e138ee1d2a2cce0)] -> id: user_password_login]
+2018-09-03 14:06:34  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-09-03 14:11:32  INFO [pages.MainPage] : Login page was opened
+2018-09-03 14:11:33  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (cb9be00d0101992bdcaa4d06d0373e49)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 14:11:33  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (cb9be00d0101992bdcaa4d06d0373e49)] -> id: mail_or_email_login]
+2018-09-03 14:11:33  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (cb9be00d0101992bdcaa4d06d0373e49)] -> id: user_password_login]
+2018-09-03 14:12:04  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-09-03 14:14:09  INFO [pages.MainPage] : Login page was opened
+2018-09-03 14:14:10  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (b409e7571411024f2504869caa81817c)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 14:14:10  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (b409e7571411024f2504869caa81817c)] -> id: mail_or_email_login]
+2018-09-03 14:14:10  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (b409e7571411024f2504869caa81817c)] -> id: user_password_login]
+2018-09-03 14:14:10  INFO [ActionsWithOurElement] : CheckBox has Unchecked state already 
+2018-09-03 14:14:51  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-09-03 14:18:53  INFO [pages.MainPage] : Login page was opened
+2018-09-03 14:18:54  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (730e8234d62e51f2880ad35b02263a5d)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 14:18:54  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (730e8234d62e51f2880ad35b02263a5d)] -> id: mail_or_email_login]
+2018-09-03 14:18:54  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (730e8234d62e51f2880ad35b02263a5d)] -> id: user_password_login]
+2018-09-03 14:18:54  INFO [ActionsWithOurElement] : CheckBox has Unchecked state already 
+2018-09-03 14:18:54  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (730e8234d62e51f2880ad35b02263a5d)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 14:20:11  INFO [pages.MainPage] : Login page was opened
+2018-09-03 14:20:12  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (c632825448269faa4fe7a3cc354b512f)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 14:20:12  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (c632825448269faa4fe7a3cc354b512f)] -> id: mail_or_email_login]
+2018-09-03 14:20:13  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (c632825448269faa4fe7a3cc354b512f)] -> id: user_password_login]
+2018-09-03 14:20:43  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-09-03 14:22:36  INFO [pages.MainPage] : Login page was opened
+2018-09-03 14:22:37  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5a0154baea4234a047d5c781b1934920)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 14:22:37  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (5a0154baea4234a047d5c781b1934920)] -> id: mail_or_email_login]
+2018-09-03 14:22:37  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (5a0154baea4234a047d5c781b1934920)] -> id: user_password_login]
+2018-09-03 14:22:37  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5a0154baea4234a047d5c781b1934920)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 14:22:37  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5a0154baea4234a047d5c781b1934920)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 14:24:04  INFO [pages.MainPage] : Login page was opened
+2018-09-03 14:24:05  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (95ea6bb8ea4c306296ae84924f1f93a4)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 14:24:05  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (95ea6bb8ea4c306296ae84924f1f93a4)] -> id: mail_or_email_login]
+2018-09-03 14:24:05  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (95ea6bb8ea4c306296ae84924f1f93a4)] -> id: user_password_login]
+2018-09-03 14:24:05  INFO [ActionsWithOurElement] : CheckBox has Unchecked state already 
+2018-09-03 14:24:06  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (95ea6bb8ea4c306296ae84924f1f93a4)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 15:22:15  INFO [pages.MainPage] : Login page was opened
+2018-09-03 15:22:17  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (8d67718b8969d405574e83d2456faf9e)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 15:22:17  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (8d67718b8969d405574e83d2456faf9e)] -> id: mail_or_email_login]
+2018-09-03 15:22:18  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (8d67718b8969d405574e83d2456faf9e)] -> id: user_password_login]
+2018-09-03 15:22:18  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (8d67718b8969d405574e83d2456faf9e)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 15:22:18  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (8d67718b8969d405574e83d2456faf9e)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 15:22:18  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 15:26:04  INFO [pages.MainPage] : Login page was opened
+2018-09-03 15:26:05  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0f0510319857ddafd779330754da333a)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 15:26:05  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (0f0510319857ddafd779330754da333a)] -> id: mail_or_email_login]
+2018-09-03 15:26:06  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (0f0510319857ddafd779330754da333a)] -> id: user_password_login]
+2018-09-03 15:26:06  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0f0510319857ddafd779330754da333a)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 15:26:06  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0f0510319857ddafd779330754da333a)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 15:26:06  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 15:29:29  INFO [pages.MainPage] : Login page was opened
+2018-09-03 15:29:30  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (8ab6f8d0ed4d6ca3e31b4b848e9ac986)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 15:29:30  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (8ab6f8d0ed4d6ca3e31b4b848e9ac986)] -> id: mail_or_email_login]
+2018-09-03 15:29:30  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (8ab6f8d0ed4d6ca3e31b4b848e9ac986)] -> id: user_password_login]
+2018-09-03 15:29:31  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (8ab6f8d0ed4d6ca3e31b4b848e9ac986)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 15:29:31  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (8ab6f8d0ed4d6ca3e31b4b848e9ac986)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 15:29:31  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 15:29:31  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 15:31:53  INFO [pages.MainPage] : Login page was opened
+2018-09-03 15:31:54  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (683119c12c0dbcbfd52cd0cd0fcc82b1)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 15:31:54  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (683119c12c0dbcbfd52cd0cd0fcc82b1)] -> id: mail_or_email_login]
+2018-09-03 15:31:54  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (683119c12c0dbcbfd52cd0cd0fcc82b1)] -> id: user_password_login]
+2018-09-03 15:31:54  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (683119c12c0dbcbfd52cd0cd0fcc82b1)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 15:31:54  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (683119c12c0dbcbfd52cd0cd0fcc82b1)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 15:31:54  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 15:31:54  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 15:38:04  INFO [pages.MainPage] : Login page was opened
+2018-09-03 15:38:05  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (a36b4209413464646b45ddbe998619f7)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 15:38:05  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (a36b4209413464646b45ddbe998619f7)] -> id: mail_or_email_login]
+2018-09-03 15:38:05  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (a36b4209413464646b45ddbe998619f7)] -> id: user_password_login]
+2018-09-03 15:38:05  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (a36b4209413464646b45ddbe998619f7)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 15:38:05  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (a36b4209413464646b45ddbe998619f7)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 15:38:05  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 15:38:06  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 15:41:06  INFO [pages.MainPage] : Login page was opened
+2018-09-03 15:41:08  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0c0c6f51cee77f3c556d30d2429cdb17)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 15:41:08  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (0c0c6f51cee77f3c556d30d2429cdb17)] -> id: mail_or_email_login]
+2018-09-03 15:41:08  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (0c0c6f51cee77f3c556d30d2429cdb17)] -> id: user_password_login]
+2018-09-03 15:41:08  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0c0c6f51cee77f3c556d30d2429cdb17)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 15:41:08  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0c0c6f51cee77f3c556d30d2429cdb17)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 15:41:08  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 15:41:08  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 15:44:02  INFO [pages.MainPage] : Login page was opened
+2018-09-03 15:44:04  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (8295e7b0048e829d6aab0069b7322fd7)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 15:44:05  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (8295e7b0048e829d6aab0069b7322fd7)] -> id: mail_or_email_login]
+2018-09-03 15:44:05  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (8295e7b0048e829d6aab0069b7322fd7)] -> id: user_password_login]
+2018-09-03 15:44:05  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (8295e7b0048e829d6aab0069b7322fd7)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 15:44:05  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (8295e7b0048e829d6aab0069b7322fd7)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 15:44:05  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 15:44:05  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 15:44:05  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 15:46:28  INFO [pages.MainPage] : Login page was opened
+2018-09-03 15:46:29  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6ea322ef135b4284bd72dabaafe53e85)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 15:46:29  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (6ea322ef135b4284bd72dabaafe53e85)] -> id: mail_or_email_login]
+2018-09-03 15:46:29  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (6ea322ef135b4284bd72dabaafe53e85)] -> id: user_password_login]
+2018-09-03 15:46:30  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6ea322ef135b4284bd72dabaafe53e85)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 15:46:30  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6ea322ef135b4284bd72dabaafe53e85)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 15:46:30  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 15:46:30  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 15:46:30  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 15:46:40  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 15:48:18  INFO [pages.MainPage] : Login page was opened
+2018-09-03 15:48:19  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (45dd00ba72aeab3941fe41005ce5b02e)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 15:48:19  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (45dd00ba72aeab3941fe41005ce5b02e)] -> id: mail_or_email_login]
+2018-09-03 15:48:19  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (45dd00ba72aeab3941fe41005ce5b02e)] -> id: user_password_login]
+2018-09-03 15:48:19  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (45dd00ba72aeab3941fe41005ce5b02e)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 15:48:19  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (45dd00ba72aeab3941fe41005ce5b02e)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 15:48:19  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 15:48:19  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 15:48:19  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 15:48:29  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 15:58:04  INFO [pages.MainPage] : Login page was opened
+2018-09-03 15:58:05  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (22d9dc66c95e6ce1fca32597f35d1055)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 15:58:05  INFO [ActionsWithOurElement] : kozak@test.com was inputed in to input [[ChromeDriver: chrome on XP (22d9dc66c95e6ce1fca32597f35d1055)] -> id: mail_or_email_login]
+2018-09-03 15:58:05  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (22d9dc66c95e6ce1fca32597f35d1055)] -> id: user_password_login]
+2018-09-03 15:58:05  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (22d9dc66c95e6ce1fca32597f35d1055)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 15:58:05  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (22d9dc66c95e6ce1fca32597f35d1055)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 15:58:16  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 15:58:16  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 15:58:16  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:17:05  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:17:06  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0bc77542bc398cbad9989804933084e8)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 17:17:07  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (0bc77542bc398cbad9989804933084e8)] -> id: mail_or_email_login]
+2018-09-03 17:17:07  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (0bc77542bc398cbad9989804933084e8)] -> id: user_password_login]
+2018-09-03 17:17:07  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0bc77542bc398cbad9989804933084e8)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 17:17:07  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0bc77542bc398cbad9989804933084e8)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 17:17:07  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:17:07  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:17:07  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:17:17  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:17:44  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:17:44  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0a4203c8d7cbf605fd9d9e5d2a2d6d3f)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 17:17:45  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (0a4203c8d7cbf605fd9d9e5d2a2d6d3f)] -> id: mail_or_email_login]
+2018-09-03 17:17:45  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (0a4203c8d7cbf605fd9d9e5d2a2d6d3f)] -> id: user_password_login]
+2018-09-03 17:17:45  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0a4203c8d7cbf605fd9d9e5d2a2d6d3f)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 17:17:45  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0a4203c8d7cbf605fd9d9e5d2a2d6d3f)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 17:17:45  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:17:45  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:17:45  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:17:55  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:18:21  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:18:22  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (387dabf0856c3305fefceea901cd82a2)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 17:18:23  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (387dabf0856c3305fefceea901cd82a2)] -> id: mail_or_email_login]
+2018-09-03 17:18:23  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (387dabf0856c3305fefceea901cd82a2)] -> id: user_password_login]
+2018-09-03 17:18:23  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (387dabf0856c3305fefceea901cd82a2)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 17:18:23  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (387dabf0856c3305fefceea901cd82a2)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 17:18:27  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:18:54  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:18:55  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (3ba189916639df75282bb6b8d42b97f4)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 17:18:55  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (3ba189916639df75282bb6b8d42b97f4)] -> id: mail_or_email_login]
+2018-09-03 17:18:55  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (3ba189916639df75282bb6b8d42b97f4)] -> id: user_password_login]
+2018-09-03 17:18:55  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (3ba189916639df75282bb6b8d42b97f4)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 17:18:55  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (3ba189916639df75282bb6b8d42b97f4)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 17:18:55  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:18:55  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:18:55  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:19:06  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:19:33  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:19:33  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (3d5e5faed6054bc44c8966314070ce60)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 17:19:34  INFO [ActionsWithOurElement] : kozak@test.com was inputed in to input [[ChromeDriver: chrome on XP (3d5e5faed6054bc44c8966314070ce60)] -> id: mail_or_email_login]
+2018-09-03 17:19:34  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (3d5e5faed6054bc44c8966314070ce60)] -> id: user_password_login]
+2018-09-03 17:19:34  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (3d5e5faed6054bc44c8966314070ce60)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 17:19:34  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (3d5e5faed6054bc44c8966314070ce60)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 17:19:44  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:19:44  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:19:44  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:20:10  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:20:21  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 17:20:22  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6124733cdd8d350b980556cc78d2d8d5)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 17:20:22  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (6124733cdd8d350b980556cc78d2d8d5)] -> id: UserName]
+2018-09-03 17:20:22  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (6124733cdd8d350b980556cc78d2d8d5)] -> id: Password]
+2018-09-03 17:20:22  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6124733cdd8d350b980556cc78d2d8d5)] -> xpath: //*[text()='Войти']]
+2018-09-03 17:20:23  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:20:23  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:20:23  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:21:39  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:21:40  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (4ae8f3346eb212b72ddd909c8025742e)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 17:21:40  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (4ae8f3346eb212b72ddd909c8025742e)] -> id: mail_or_email_login]
+2018-09-03 17:21:40  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (4ae8f3346eb212b72ddd909c8025742e)] -> id: user_password_login]
+2018-09-03 17:21:40  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (4ae8f3346eb212b72ddd909c8025742e)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 17:21:40  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (4ae8f3346eb212b72ddd909c8025742e)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 17:21:41  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:21:41  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:21:41  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:21:51  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:21:57  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:21:59  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (03223cae59a40a863e3c58656bd3052f)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 17:21:59  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (03223cae59a40a863e3c58656bd3052f)] -> id: mail_or_email_login]
+2018-09-03 17:21:59  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (03223cae59a40a863e3c58656bd3052f)] -> id: user_password_login]
+2018-09-03 17:21:59  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (03223cae59a40a863e3c58656bd3052f)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 17:21:59  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (03223cae59a40a863e3c58656bd3052f)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 17:21:59  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:21:59  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:21:59  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:22:09  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:22:17  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:22:18  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (68e09643528c566c21d43f267dac0f3d)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 17:22:18  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (68e09643528c566c21d43f267dac0f3d)] -> id: mail_or_email_login]
+2018-09-03 17:22:19  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (68e09643528c566c21d43f267dac0f3d)] -> id: user_password_login]
+2018-09-03 17:22:19  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (68e09643528c566c21d43f267dac0f3d)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 17:22:19  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (68e09643528c566c21d43f267dac0f3d)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 17:22:24  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:22:30  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:22:31  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (47a43f0f124558bfe835a6055e584604)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 17:22:32  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (47a43f0f124558bfe835a6055e584604)] -> id: mail_or_email_login]
+2018-09-03 17:22:32  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (47a43f0f124558bfe835a6055e584604)] -> id: user_password_login]
+2018-09-03 17:22:32  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (47a43f0f124558bfe835a6055e584604)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 17:22:32  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (47a43f0f124558bfe835a6055e584604)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 17:22:32  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:22:32  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:22:32  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:22:42  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:22:49  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:22:50  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (764df7597be5c6750688336527d3fea9)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 17:22:50  INFO [ActionsWithOurElement] : kozak@test.com was inputed in to input [[ChromeDriver: chrome on XP (764df7597be5c6750688336527d3fea9)] -> id: mail_or_email_login]
+2018-09-03 17:22:50  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (764df7597be5c6750688336527d3fea9)] -> id: user_password_login]
+2018-09-03 17:22:50  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (764df7597be5c6750688336527d3fea9)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 17:22:50  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (764df7597be5c6750688336527d3fea9)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 17:23:00  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:23:00  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:23:01  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:23:09  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:23:20  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 17:23:21  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6b83c59bd457c9e18f275e9d482d22d2)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 17:23:21  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (6b83c59bd457c9e18f275e9d482d22d2)] -> id: UserName]
+2018-09-03 17:23:21  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (6b83c59bd457c9e18f275e9d482d22d2)] -> id: Password]
+2018-09-03 17:23:21  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6b83c59bd457c9e18f275e9d482d22d2)] -> xpath: //*[text()='Войти']]
+2018-09-03 17:23:21  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:23:21  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:23:21  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:23:31  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:23:38  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:23:48  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 17:23:49  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (02d5b4d61e42ebe53ca52ec4db2055e7)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 17:23:49  INFO [ActionsWithOurElement] : invalid@email.com was inputed in to input [[ChromeDriver: chrome on XP (02d5b4d61e42ebe53ca52ec4db2055e7)] -> id: UserName]
+2018-09-03 17:23:49  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (02d5b4d61e42ebe53ca52ec4db2055e7)] -> id: Password]
+2018-09-03 17:23:51  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (02d5b4d61e42ebe53ca52ec4db2055e7)] -> xpath: //*[text()='Войти']]
+2018-09-03 17:23:51  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:23:51  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:24:01  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:24:07  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:24:18  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 17:24:19  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (489861496f54826a2f126a6d4932c3a9)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 17:24:19  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (489861496f54826a2f126a6d4932c3a9)] -> id: UserName]
+2018-09-03 17:24:19  INFO [ActionsWithOurElement] : 123 was inputed in to input [[ChromeDriver: chrome on XP (489861496f54826a2f126a6d4932c3a9)] -> id: Password]
+2018-09-03 17:24:19  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (489861496f54826a2f126a6d4932c3a9)] -> xpath: //*[text()='Войти']]
+2018-09-03 17:24:19  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:24:19  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:24:29  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:24:36  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:24:46  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 17:24:47  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2d4840adbf68e07c9ab7f27d6d3e4d58)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 17:24:47  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (2d4840adbf68e07c9ab7f27d6d3e4d58)] -> id: UserName]
+2018-09-03 17:24:47  INFO [ActionsWithOurElement] : Invalid password123 was inputed in to input [[ChromeDriver: chrome on XP (2d4840adbf68e07c9ab7f27d6d3e4d58)] -> id: Password]
+2018-09-03 17:24:51  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2d4840adbf68e07c9ab7f27d6d3e4d58)] -> xpath: //*[text()='Войти']]
+2018-09-03 17:24:51  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:24:51  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:25:01  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:25:08  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:25:18  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 17:25:19  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (991dfcae253e6c6093968f7d4f955fc5)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 17:25:19  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (991dfcae253e6c6093968f7d4f955fc5)] -> id: UserName]
+2018-09-03 17:25:20  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (991dfcae253e6c6093968f7d4f955fc5)] -> id: Password]
+2018-09-03 17:25:20  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (991dfcae253e6c6093968f7d4f955fc5)] -> xpath: //*[text()='Войти']]
+2018-09-03 17:25:20  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:25:20  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:25:30  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:25:36  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:25:46  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 17:25:47  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (a4d0698167fc6c890a2629232677fe83)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 17:25:48  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (a4d0698167fc6c890a2629232677fe83)] -> id: UserName]
+2018-09-03 17:25:48  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (a4d0698167fc6c890a2629232677fe83)] -> id: Password]
+2018-09-03 17:25:48  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (a4d0698167fc6c890a2629232677fe83)] -> xpath: //*[text()='Войти']]
+2018-09-03 17:25:48  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:25:48  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 17:25:58  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 17:26:04  INFO [pages.MainPage] : Login page was opened
+2018-09-03 17:26:15  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 17:26:15  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (a4f0d13c2931fb49b99ef6e4f5cd16b4)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 17:26:16  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (a4f0d13c2931fb49b99ef6e4f5cd16b4)] -> id: UserName]
+2018-09-03 17:26:16  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (a4f0d13c2931fb49b99ef6e4f5cd16b4)] -> id: Password]
+2018-09-03 17:26:20  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (a4f0d13c2931fb49b99ef6e4f5cd16b4)] -> xpath: //*[text()='Войти']]
+2018-09-03 17:26:20  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:05:00  INFO [pages.MainPage] : Login page was opened
+2018-09-03 19:05:01  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (98a381ba27d0c218572f63b81bc78661)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 19:05:01  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (98a381ba27d0c218572f63b81bc78661)] -> id: mail_or_email_login]
+2018-09-03 19:05:01  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (98a381ba27d0c218572f63b81bc78661)] -> id: user_password_login]
+2018-09-03 19:05:01  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (98a381ba27d0c218572f63b81bc78661)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 19:05:01  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (98a381ba27d0c218572f63b81bc78661)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 19:05:01  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:05:01  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:05:01  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:05:11  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 19:05:38  INFO [pages.MainPage] : Login page was opened
+2018-09-03 19:05:39  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (d782c2e9d29a049a1121a3eee1a327fb)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 19:05:39  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (d782c2e9d29a049a1121a3eee1a327fb)] -> id: mail_or_email_login]
+2018-09-03 19:05:40  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (d782c2e9d29a049a1121a3eee1a327fb)] -> id: user_password_login]
+2018-09-03 19:05:40  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (d782c2e9d29a049a1121a3eee1a327fb)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 19:05:40  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (d782c2e9d29a049a1121a3eee1a327fb)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 19:05:40  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:05:40  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:05:40  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 19:05:50  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 19:06:38  INFO [pages.MainPage] : Login page was opened
+2018-09-03 19:06:39  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (520b82989ec27f99ea56456a5fdefb38)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 19:06:39  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (520b82989ec27f99ea56456a5fdefb38)] -> id: mail_or_email_login]
+2018-09-03 19:06:39  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (520b82989ec27f99ea56456a5fdefb38)] -> id: user_password_login]
+2018-09-03 19:06:39  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (520b82989ec27f99ea56456a5fdefb38)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 19:06:40  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (520b82989ec27f99ea56456a5fdefb38)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 19:06:44  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:07:32  INFO [pages.MainPage] : Login page was opened
+2018-09-03 19:07:32  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0e1bb9b7fdf69f382793fec2a45a7f1f)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 19:07:33  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (0e1bb9b7fdf69f382793fec2a45a7f1f)] -> id: mail_or_email_login]
+2018-09-03 19:07:33  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (0e1bb9b7fdf69f382793fec2a45a7f1f)] -> id: user_password_login]
+2018-09-03 19:07:33  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0e1bb9b7fdf69f382793fec2a45a7f1f)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 19:07:33  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0e1bb9b7fdf69f382793fec2a45a7f1f)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 19:07:33  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:07:33  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 19:07:33  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:07:43  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 19:08:31  INFO [pages.MainPage] : Login page was opened
+2018-09-03 19:08:33  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2d37f2aa180b2cc40d5815db57766ba4)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-09-03 19:08:33  INFO [ActionsWithOurElement] : kozak@test.com was inputed in to input [[ChromeDriver: chrome on XP (2d37f2aa180b2cc40d5815db57766ba4)] -> id: mail_or_email_login]
+2018-09-03 19:08:33  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (2d37f2aa180b2cc40d5815db57766ba4)] -> id: user_password_login]
+2018-09-03 19:08:33  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2d37f2aa180b2cc40d5815db57766ba4)] -> xpath: //*[@for='remember_me_login']]
+2018-09-03 19:08:34  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2d37f2aa180b2cc40d5815db57766ba4)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-09-03 19:08:44  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 19:08:44  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:08:44  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:09:33  INFO [pages.MainPage] : Login page was opened
+2018-09-03 19:09:43  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 19:09:44  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (f50c6cd45c2d1385fad9b58d8c237969)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 19:09:44  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (f50c6cd45c2d1385fad9b58d8c237969)] -> id: UserName]
+2018-09-03 19:09:44  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (f50c6cd45c2d1385fad9b58d8c237969)] -> id: Password]
+2018-09-03 19:09:45  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (f50c6cd45c2d1385fad9b58d8c237969)] -> xpath: //*[text()='Войти']]
+2018-09-03 19:09:45  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:09:45  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:09:45  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:09:55  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 19:10:44  INFO [pages.MainPage] : Login page was opened
+2018-09-03 19:10:54  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 19:10:55  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (f6b6fb30ddcfe27df845b785c0d88bae)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 19:10:55  INFO [ActionsWithOurElement] : invalid@email.com was inputed in to input [[ChromeDriver: chrome on XP (f6b6fb30ddcfe27df845b785c0d88bae)] -> id: UserName]
+2018-09-03 19:10:55  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (f6b6fb30ddcfe27df845b785c0d88bae)] -> id: Password]
+2018-09-03 19:10:57  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (f6b6fb30ddcfe27df845b785c0d88bae)] -> xpath: //*[text()='Войти']]
+2018-09-03 19:10:57  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:10:57  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:11:07  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 19:11:55  INFO [pages.MainPage] : Login page was opened
+2018-09-03 19:12:05  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 19:12:13  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (780ddd1a672d79444564f1c7207708e5)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 19:12:13  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (780ddd1a672d79444564f1c7207708e5)] -> id: UserName]
+2018-09-03 19:12:13  INFO [ActionsWithOurElement] : 123 was inputed in to input [[ChromeDriver: chrome on XP (780ddd1a672d79444564f1c7207708e5)] -> id: Password]
+2018-09-03 19:12:13  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (780ddd1a672d79444564f1c7207708e5)] -> xpath: //*[text()='Войти']]
+2018-09-03 19:12:13  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:12:13  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:12:23  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 19:13:12  INFO [pages.MainPage] : Login page was opened
+2018-09-03 19:13:22  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 19:13:23  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (aa3f6df8a261147b430af09c161cbaf6)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 19:13:23  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (aa3f6df8a261147b430af09c161cbaf6)] -> id: UserName]
+2018-09-03 19:13:23  INFO [ActionsWithOurElement] : Invalid password123 was inputed in to input [[ChromeDriver: chrome on XP (aa3f6df8a261147b430af09c161cbaf6)] -> id: Password]
+2018-09-03 19:13:30  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (aa3f6df8a261147b430af09c161cbaf6)] -> xpath: //*[text()='Войти']]
+2018-09-03 19:13:30  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:13:30  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:13:40  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 19:14:27  INFO [pages.MainPage] : Login page was opened
+2018-09-03 19:14:38  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 19:14:39  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (596773f200ec3d3c82d6947f951ae7e9)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 19:14:39  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (596773f200ec3d3c82d6947f951ae7e9)] -> id: UserName]
+2018-09-03 19:14:39  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (596773f200ec3d3c82d6947f951ae7e9)] -> id: Password]
+2018-09-03 19:14:39  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (596773f200ec3d3c82d6947f951ae7e9)] -> xpath: //*[text()='Войти']]
+2018-09-03 19:14:40  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:14:40  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:14:50  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 19:15:38  INFO [pages.MainPage] : Login page was opened
+2018-09-03 19:15:48  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 19:15:49  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (f75c2b7669babb75a7510f23c21dbe10)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 19:15:49  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (f75c2b7669babb75a7510f23c21dbe10)] -> id: UserName]
+2018-09-03 19:15:50  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (f75c2b7669babb75a7510f23c21dbe10)] -> id: Password]
+2018-09-03 19:15:50  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (f75c2b7669babb75a7510f23c21dbe10)] -> xpath: //*[text()='Войти']]
+2018-09-03 19:15:50  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:15:50  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 19:16:00  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-09-03 19:16:48  INFO [pages.MainPage] : Login page was opened
+2018-09-03 19:16:58  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-09-03 19:16:59  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (73d2dd6a407ca9cfcf23ceee68fa1bdd)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-09-03 19:17:00  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (73d2dd6a407ca9cfcf23ceee68fa1bdd)] -> id: UserName]
+2018-09-03 19:17:00  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (73d2dd6a407ca9cfcf23ceee68fa1bdd)] -> id: Password]
+2018-09-03 19:17:04  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (73d2dd6a407ca9cfcf23ceee68fa1bdd)] -> xpath: //*[text()='Войти']]
+2018-09-03 19:17:04  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-09-03 20:47:10  INFO [pages.MainPage] : Login page was opened
+2018-09-03 22:46:28  INFO [pages.MainPage] : Login page was opened
+2018-10-03 01:15:30  INFO [pages.MainPage] : Login page was opened
+2018-10-03 01:17:44  INFO [pages.MainPage] : Login page was opened
+2018-10-03 01:17:45  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5252bd301c9f21a8e42cbdd3190ad3e4)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-10-03 01:17:45  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (5252bd301c9f21a8e42cbdd3190ad3e4)] -> id: mail_or_email_login]
+2018-10-03 01:17:45  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (5252bd301c9f21a8e42cbdd3190ad3e4)] -> id: user_password_login]
+2018-10-03 01:17:45  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5252bd301c9f21a8e42cbdd3190ad3e4)] -> xpath: //*[@for='remember_me_login']]
+2018-10-03 01:17:45  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5252bd301c9f21a8e42cbdd3190ad3e4)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-10-03 01:17:45  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:17:45  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:17:45  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:17:55  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-10-03 01:18:24  INFO [pages.MainPage] : Login page was opened
+2018-10-03 01:18:25  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (d10b8828c916294df4460decd20723be)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-10-03 01:18:26  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (d10b8828c916294df4460decd20723be)] -> id: mail_or_email_login]
+2018-10-03 01:18:26  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (d10b8828c916294df4460decd20723be)] -> id: user_password_login]
+2018-10-03 01:18:26  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (d10b8828c916294df4460decd20723be)] -> xpath: //*[@for='remember_me_login']]
+2018-10-03 01:18:26  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (d10b8828c916294df4460decd20723be)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-10-03 01:18:26  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:18:26  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:18:26  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-10-03 01:18:36  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-10-03 01:19:03  INFO [pages.MainPage] : Login page was opened
+2018-10-03 01:19:04  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (4f5f569a1c054ff80fd8917de33bdc5b)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-10-03 01:19:04  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (4f5f569a1c054ff80fd8917de33bdc5b)] -> id: mail_or_email_login]
+2018-10-03 01:19:04  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (4f5f569a1c054ff80fd8917de33bdc5b)] -> id: user_password_login]
+2018-10-03 01:19:04  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (4f5f569a1c054ff80fd8917de33bdc5b)] -> xpath: //*[@for='remember_me_login']]
+2018-10-03 01:19:04  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (4f5f569a1c054ff80fd8917de33bdc5b)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-10-03 01:19:09  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:19:39  INFO [pages.MainPage] : Login page was opened
+2018-10-03 01:19:40  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (56cfc4522feaa208aca77856e9883c0c)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-10-03 01:19:40  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (56cfc4522feaa208aca77856e9883c0c)] -> id: mail_or_email_login]
+2018-10-03 01:19:40  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (56cfc4522feaa208aca77856e9883c0c)] -> id: user_password_login]
+2018-10-03 01:19:40  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (56cfc4522feaa208aca77856e9883c0c)] -> xpath: //*[@for='remember_me_login']]
+2018-10-03 01:19:40  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (56cfc4522feaa208aca77856e9883c0c)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-10-03 01:19:40  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:19:40  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-10-03 01:19:41  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:19:51  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-10-03 01:20:17  INFO [pages.MainPage] : Login page was opened
+2018-10-03 01:20:18  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (231de599ff1b5491b1d27134149cbe6d)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-10-03 01:20:19  INFO [ActionsWithOurElement] : kozak@test.com was inputed in to input [[ChromeDriver: chrome on XP (231de599ff1b5491b1d27134149cbe6d)] -> id: mail_or_email_login]
+2018-10-03 01:20:19  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (231de599ff1b5491b1d27134149cbe6d)] -> id: user_password_login]
+2018-10-03 01:20:19  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (231de599ff1b5491b1d27134149cbe6d)] -> xpath: //*[@for='remember_me_login']]
+2018-10-03 01:20:19  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (231de599ff1b5491b1d27134149cbe6d)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-10-03 01:20:29  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-10-03 01:20:29  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:20:29  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:20:57  INFO [pages.MainPage] : Login page was opened
+2018-10-03 01:21:07  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-10-03 01:21:09  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (964b2e566db57873a6c8a6d15a65e010)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-10-03 01:21:09  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (964b2e566db57873a6c8a6d15a65e010)] -> id: UserName]
+2018-10-03 01:21:09  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (964b2e566db57873a6c8a6d15a65e010)] -> id: Password]
+2018-10-03 01:21:09  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (964b2e566db57873a6c8a6d15a65e010)] -> xpath: //*[text()='Войти']]
+2018-10-03 01:21:09  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:21:09  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:21:09  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:21:19  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-10-03 01:21:26  INFO [pages.MainPage] : Login page was opened
+2018-10-03 01:21:36  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-10-03 01:21:37  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (dbc64f734637ffeaaa0b4db2d4652b3e)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-10-03 01:21:37  INFO [ActionsWithOurElement] : invalid@email.com was inputed in to input [[ChromeDriver: chrome on XP (dbc64f734637ffeaaa0b4db2d4652b3e)] -> id: UserName]
+2018-10-03 01:21:38  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (dbc64f734637ffeaaa0b4db2d4652b3e)] -> id: Password]
+2018-10-03 01:21:42  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (dbc64f734637ffeaaa0b4db2d4652b3e)] -> xpath: //*[text()='Войти']]
+2018-10-03 01:21:42  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:21:42  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:21:52  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-10-03 01:21:59  INFO [pages.MainPage] : Login page was opened
+2018-10-03 01:22:09  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-10-03 01:22:11  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (c85391a3c5c859dab64e34d22ee1c494)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-10-03 01:22:11  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (c85391a3c5c859dab64e34d22ee1c494)] -> id: UserName]
+2018-10-03 01:22:11  INFO [ActionsWithOurElement] : 123 was inputed in to input [[ChromeDriver: chrome on XP (c85391a3c5c859dab64e34d22ee1c494)] -> id: Password]
+2018-10-03 01:22:11  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (c85391a3c5c859dab64e34d22ee1c494)] -> xpath: //*[text()='Войти']]
+2018-10-03 01:22:11  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:22:11  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:22:21  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-10-03 01:22:27  INFO [pages.MainPage] : Login page was opened
+2018-10-03 01:22:38  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-10-03 01:22:39  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6f10e401bd78249034bc274a1d3fc3c5)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-10-03 01:22:39  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (6f10e401bd78249034bc274a1d3fc3c5)] -> id: UserName]
+2018-10-03 01:22:39  INFO [ActionsWithOurElement] : Invalid password123 was inputed in to input [[ChromeDriver: chrome on XP (6f10e401bd78249034bc274a1d3fc3c5)] -> id: Password]
+2018-10-03 01:22:43  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6f10e401bd78249034bc274a1d3fc3c5)] -> xpath: //*[text()='Войти']]
+2018-10-03 01:22:43  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:22:43  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:22:53  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-10-03 01:23:00  INFO [pages.MainPage] : Login page was opened
+2018-10-03 01:23:10  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-10-03 01:23:11  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (7192d8177adc3c519e8849327bbb5a72)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-10-03 01:23:12  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (7192d8177adc3c519e8849327bbb5a72)] -> id: UserName]
+2018-10-03 01:23:12  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (7192d8177adc3c519e8849327bbb5a72)] -> id: Password]
+2018-10-03 01:23:12  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (7192d8177adc3c519e8849327bbb5a72)] -> xpath: //*[text()='Войти']]
+2018-10-03 01:23:12  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:23:12  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:23:22  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-10-03 01:23:31  INFO [pages.MainPage] : Login page was opened
+2018-10-03 01:23:42  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-10-03 01:23:43  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (399dd670144e960be9b1f6063374e7db)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-10-03 01:23:43  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (399dd670144e960be9b1f6063374e7db)] -> id: UserName]
+2018-10-03 01:23:43  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (399dd670144e960be9b1f6063374e7db)] -> id: Password]
+2018-10-03 01:23:43  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (399dd670144e960be9b1f6063374e7db)] -> xpath: //*[text()='Войти']]
+2018-10-03 01:23:43  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:23:43  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-10-03 01:23:53  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-10-03 01:24:01  INFO [pages.MainPage] : Login page was opened
+2018-10-03 01:24:11  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-10-03 01:24:12  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2ef90c3e81d6af500048c2f0eb6a70c0)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-10-03 01:24:13  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (2ef90c3e81d6af500048c2f0eb6a70c0)] -> id: UserName]
+2018-10-03 01:24:13  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (2ef90c3e81d6af500048c2f0eb6a70c0)] -> id: Password]
+2018-10-03 01:24:18  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2ef90c3e81d6af500048c2f0eb6a70c0)] -> xpath: //*[text()='Войти']]
+2018-10-03 01:24:18  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 17:58:18  INFO [pages.MainPage] : Login page was opened
+2018-11-03 17:58:20  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (07b4d9422e37b4bb1287e4a74d5aa307)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 17:58:20  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (07b4d9422e37b4bb1287e4a74d5aa307)] -> id: mail_or_email_login]
+2018-11-03 17:58:20  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (07b4d9422e37b4bb1287e4a74d5aa307)] -> id: user_password_login]
+2018-11-03 17:58:20  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (07b4d9422e37b4bb1287e4a74d5aa307)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 17:58:20  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (07b4d9422e37b4bb1287e4a74d5aa307)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 17:58:20  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 17:58:20  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 17:58:20  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 17:58:30  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 17:59:20  INFO [pages.MainPage] : Login page was opened
+2018-11-03 17:59:21  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (3ca2d814c71c0b937517455e9847c87b)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 17:59:21  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (3ca2d814c71c0b937517455e9847c87b)] -> id: mail_or_email_login]
+2018-11-03 17:59:21  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (3ca2d814c71c0b937517455e9847c87b)] -> id: user_password_login]
+2018-11-03 17:59:22  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (3ca2d814c71c0b937517455e9847c87b)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 17:59:22  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (3ca2d814c71c0b937517455e9847c87b)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 17:59:22  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 17:59:22  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 17:59:22  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 17:59:32  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 17:59:59  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:00:00  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5ef7d8597ef931d812e9523b3798b56e)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 18:00:00  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (5ef7d8597ef931d812e9523b3798b56e)] -> id: mail_or_email_login]
+2018-11-03 18:00:00  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (5ef7d8597ef931d812e9523b3798b56e)] -> id: user_password_login]
+2018-11-03 18:00:01  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5ef7d8597ef931d812e9523b3798b56e)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 18:00:01  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5ef7d8597ef931d812e9523b3798b56e)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 18:00:05  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:00:32  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:00:33  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0b173e195418b23cb30186fbb7a7c82e)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 18:00:33  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (0b173e195418b23cb30186fbb7a7c82e)] -> id: mail_or_email_login]
+2018-11-03 18:00:33  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (0b173e195418b23cb30186fbb7a7c82e)] -> id: user_password_login]
+2018-11-03 18:00:33  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0b173e195418b23cb30186fbb7a7c82e)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 18:00:34  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0b173e195418b23cb30186fbb7a7c82e)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 18:00:34  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:00:34  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:00:34  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:00:44  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:01:10  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:01:11  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2ae55112460ef054a89d93c66ff93b33)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 18:01:12  INFO [ActionsWithOurElement] : kozak@test.com was inputed in to input [[ChromeDriver: chrome on XP (2ae55112460ef054a89d93c66ff93b33)] -> id: mail_or_email_login]
+2018-11-03 18:01:12  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (2ae55112460ef054a89d93c66ff93b33)] -> id: user_password_login]
+2018-11-03 18:01:12  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2ae55112460ef054a89d93c66ff93b33)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 18:01:12  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2ae55112460ef054a89d93c66ff93b33)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 18:01:22  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:01:22  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:01:22  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:01:49  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:01:59  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 18:02:01  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (62bf85f3a059a0561b41879609c816dc)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 18:02:01  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (62bf85f3a059a0561b41879609c816dc)] -> id: UserName]
+2018-11-03 18:02:01  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (62bf85f3a059a0561b41879609c816dc)] -> id: Password]
+2018-11-03 18:02:01  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (62bf85f3a059a0561b41879609c816dc)] -> xpath: //*[text()='Войти']]
+2018-11-03 18:02:01  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:02:01  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:02:01  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:02:11  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:02:38  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:02:48  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 18:02:49  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5f6f5cd1fa3d30bd6260aa6ebedf2a7a)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 18:02:50  INFO [ActionsWithOurElement] : invalid@email.com was inputed in to input [[ChromeDriver: chrome on XP (5f6f5cd1fa3d30bd6260aa6ebedf2a7a)] -> id: UserName]
+2018-11-03 18:02:50  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (5f6f5cd1fa3d30bd6260aa6ebedf2a7a)] -> id: Password]
+2018-11-03 18:02:51  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5f6f5cd1fa3d30bd6260aa6ebedf2a7a)] -> xpath: //*[text()='Войти']]
+2018-11-03 18:02:51  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:02:51  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:03:01  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:03:28  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:03:38  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 18:03:39  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (49c3fa89617453b5e145de864a2aa7a0)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 18:03:39  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (49c3fa89617453b5e145de864a2aa7a0)] -> id: UserName]
+2018-11-03 18:03:40  INFO [ActionsWithOurElement] : 123 was inputed in to input [[ChromeDriver: chrome on XP (49c3fa89617453b5e145de864a2aa7a0)] -> id: Password]
+2018-11-03 18:03:40  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (49c3fa89617453b5e145de864a2aa7a0)] -> xpath: //*[text()='Войти']]
+2018-11-03 18:03:40  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:03:40  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:03:50  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:03:57  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:04:07  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 18:04:08  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (dbd0e6acb4fa5c1dd1fdad5ca699ed7a)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 18:04:08  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (dbd0e6acb4fa5c1dd1fdad5ca699ed7a)] -> id: UserName]
+2018-11-03 18:04:08  INFO [ActionsWithOurElement] : Invalid password123 was inputed in to input [[ChromeDriver: chrome on XP (dbd0e6acb4fa5c1dd1fdad5ca699ed7a)] -> id: Password]
+2018-11-03 18:04:12  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (dbd0e6acb4fa5c1dd1fdad5ca699ed7a)] -> xpath: //*[text()='Войти']]
+2018-11-03 18:04:12  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:04:12  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:04:23  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:04:29  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:04:39  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 18:04:40  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (69fbbe090db68606360625a3dfeafaac)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 18:04:40  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (69fbbe090db68606360625a3dfeafaac)] -> id: UserName]
+2018-11-03 18:04:40  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (69fbbe090db68606360625a3dfeafaac)] -> id: Password]
+2018-11-03 18:04:41  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (69fbbe090db68606360625a3dfeafaac)] -> xpath: //*[text()='Войти']]
+2018-11-03 18:04:41  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:04:41  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:04:51  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:04:57  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:05:07  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 18:05:09  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6ee138cd37a51dd3313a01610b2da99a)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 18:05:09  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (6ee138cd37a51dd3313a01610b2da99a)] -> id: UserName]
+2018-11-03 18:05:09  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (6ee138cd37a51dd3313a01610b2da99a)] -> id: Password]
+2018-11-03 18:05:09  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (6ee138cd37a51dd3313a01610b2da99a)] -> xpath: //*[text()='Войти']]
+2018-11-03 18:05:09  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:05:09  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:05:19  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:05:28  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:05:38  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 18:05:40  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0bb35da6971546e06854749aec2dbe53)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 18:05:40  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (0bb35da6971546e06854749aec2dbe53)] -> id: UserName]
+2018-11-03 18:05:40  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (0bb35da6971546e06854749aec2dbe53)] -> id: Password]
+2018-11-03 18:05:45  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0bb35da6971546e06854749aec2dbe53)] -> xpath: //*[text()='Войти']]
+2018-11-03 18:05:45  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:45:12  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:45:13  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (868949de87bcf4de897eb7d6cb2fecdb)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 18:45:13  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (868949de87bcf4de897eb7d6cb2fecdb)] -> id: mail_or_email_login]
+2018-11-03 18:45:13  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (868949de87bcf4de897eb7d6cb2fecdb)] -> id: user_password_login]
+2018-11-03 18:45:13  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (868949de87bcf4de897eb7d6cb2fecdb)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 18:45:13  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (868949de87bcf4de897eb7d6cb2fecdb)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 18:45:13  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:45:13  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:45:13  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:45:23  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:45:53  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:45:54  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (d33a8686faca205d8d5250ba0ad2aca3)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 18:45:54  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (d33a8686faca205d8d5250ba0ad2aca3)] -> id: mail_or_email_login]
+2018-11-03 18:45:54  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (d33a8686faca205d8d5250ba0ad2aca3)] -> id: user_password_login]
+2018-11-03 18:45:54  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (d33a8686faca205d8d5250ba0ad2aca3)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 18:45:54  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (d33a8686faca205d8d5250ba0ad2aca3)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 18:45:54  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:45:54  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:45:54  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:46:04  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:46:31  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:46:32  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (40e8b5a0697dbb2e78a50b33e68cf4f0)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 18:46:32  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (40e8b5a0697dbb2e78a50b33e68cf4f0)] -> id: mail_or_email_login]
+2018-11-03 18:46:32  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (40e8b5a0697dbb2e78a50b33e68cf4f0)] -> id: user_password_login]
+2018-11-03 18:46:33  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (40e8b5a0697dbb2e78a50b33e68cf4f0)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 18:46:33  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (40e8b5a0697dbb2e78a50b33e68cf4f0)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 18:46:33  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:47:00  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:47:01  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (3922116cc71309f5bde4730567436a8d)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 18:47:01  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (3922116cc71309f5bde4730567436a8d)] -> id: mail_or_email_login]
+2018-11-03 18:47:01  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (3922116cc71309f5bde4730567436a8d)] -> id: user_password_login]
+2018-11-03 18:47:02  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (3922116cc71309f5bde4730567436a8d)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 18:47:02  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (3922116cc71309f5bde4730567436a8d)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 18:47:02  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:47:02  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:47:02  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:47:12  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:47:39  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:47:40  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (c3c794e9c9b0623b1104a199017ca0e9)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 18:47:40  INFO [ActionsWithOurElement] : kozak@test.com was inputed in to input [[ChromeDriver: chrome on XP (c3c794e9c9b0623b1104a199017ca0e9)] -> id: mail_or_email_login]
+2018-11-03 18:47:40  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (c3c794e9c9b0623b1104a199017ca0e9)] -> id: user_password_login]
+2018-11-03 18:47:40  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (c3c794e9c9b0623b1104a199017ca0e9)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 18:47:41  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (c3c794e9c9b0623b1104a199017ca0e9)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 18:47:51  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:47:51  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:47:51  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:48:18  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:48:28  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 18:48:29  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (95dfedd72e82dd7c50848897b908b8b7)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 18:48:30  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (95dfedd72e82dd7c50848897b908b8b7)] -> id: UserName]
+2018-11-03 18:48:30  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (95dfedd72e82dd7c50848897b908b8b7)] -> id: Password]
+2018-11-03 18:48:30  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (95dfedd72e82dd7c50848897b908b8b7)] -> xpath: //*[text()='Войти']]
+2018-11-03 18:48:30  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:48:30  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:48:30  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:48:40  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:49:07  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:49:17  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 18:49:19  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (79c1b0e0c92578c2560f59bc779c49e0)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 18:49:20  INFO [ActionsWithOurElement] : invalid@email.com was inputed in to input [[ChromeDriver: chrome on XP (79c1b0e0c92578c2560f59bc779c49e0)] -> id: UserName]
+2018-11-03 18:49:20  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (79c1b0e0c92578c2560f59bc779c49e0)] -> id: Password]
+2018-11-03 18:49:21  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (79c1b0e0c92578c2560f59bc779c49e0)] -> xpath: //*[text()='Войти']]
+2018-11-03 18:49:21  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:49:21  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:49:31  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:49:58  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:50:08  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 18:50:11  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (f2a043231ef3f038a9672e68e638aa4c)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 18:50:11  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (f2a043231ef3f038a9672e68e638aa4c)] -> id: UserName]
+2018-11-03 18:50:11  INFO [ActionsWithOurElement] : 123 was inputed in to input [[ChromeDriver: chrome on XP (f2a043231ef3f038a9672e68e638aa4c)] -> id: Password]
+2018-11-03 18:50:11  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (f2a043231ef3f038a9672e68e638aa4c)] -> xpath: //*[text()='Войти']]
+2018-11-03 18:50:11  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:50:11  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:50:21  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:52:07  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:52:17  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 18:52:19  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (4e52f5be0f2a772a46cf51a6f71c2a05)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 18:52:19  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (4e52f5be0f2a772a46cf51a6f71c2a05)] -> id: UserName]
+2018-11-03 18:52:19  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (4e52f5be0f2a772a46cf51a6f71c2a05)] -> id: Password]
+2018-11-03 18:52:19  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (4e52f5be0f2a772a46cf51a6f71c2a05)] -> xpath: //*[text()='Войти']]
+2018-11-03 18:52:19  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:52:19  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:52:29  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:53:18  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:53:28  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 18:53:30  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (9c466ebba163e03c209de2e33bc73fe6)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 18:53:30  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (9c466ebba163e03c209de2e33bc73fe6)] -> id: UserName]
+2018-11-03 18:53:31  INFO [ActionsWithOurElement] : Invalid password123 was inputed in to input [[ChromeDriver: chrome on XP (9c466ebba163e03c209de2e33bc73fe6)] -> id: Password]
+2018-11-03 18:53:35  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (9c466ebba163e03c209de2e33bc73fe6)] -> xpath: //*[text()='Войти']]
+2018-11-03 18:53:35  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:53:35  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:53:45  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:54:33  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:54:43  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 18:54:44  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (91c4cdfc3f7766708e2c5bf0ffb04182)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 18:54:45  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (91c4cdfc3f7766708e2c5bf0ffb04182)] -> id: UserName]
+2018-11-03 18:54:45  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (91c4cdfc3f7766708e2c5bf0ffb04182)] -> id: Password]
+2018-11-03 18:54:49  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (91c4cdfc3f7766708e2c5bf0ffb04182)] -> xpath: //*[text()='Войти']]
+2018-11-03 18:54:49  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:54:49  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:54:55  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:55:05  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 18:55:06  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5dd6bdc1945cbc5fbe8cfefd72572fc2)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 18:55:06  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (5dd6bdc1945cbc5fbe8cfefd72572fc2)] -> id: UserName]
+2018-11-03 18:55:07  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (5dd6bdc1945cbc5fbe8cfefd72572fc2)] -> id: Password]
+2018-11-03 18:55:07  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5dd6bdc1945cbc5fbe8cfefd72572fc2)] -> xpath: //*[text()='Войти']]
+2018-11-03 18:55:07  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:55:07  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:55:17  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 18:57:33  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:57:34  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (037224d9a598bfa6668e0063488c0e52)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 18:57:34  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (037224d9a598bfa6668e0063488c0e52)] -> id: mail_or_email_login]
+2018-11-03 18:57:34  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (037224d9a598bfa6668e0063488c0e52)] -> id: user_password_login]
+2018-11-03 18:57:35  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (037224d9a598bfa6668e0063488c0e52)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 18:57:35  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (037224d9a598bfa6668e0063488c0e52)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 18:57:35  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 18:58:28  INFO [pages.MainPage] : Login page was opened
+2018-11-03 18:58:29  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (369126838f34c34af3bd2c20088f6802)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 18:58:29  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (369126838f34c34af3bd2c20088f6802)] -> id: mail_or_email_login]
+2018-11-03 18:58:30  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (369126838f34c34af3bd2c20088f6802)] -> id: user_password_login]
+2018-11-03 18:58:30  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (369126838f34c34af3bd2c20088f6802)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 18:58:30  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (369126838f34c34af3bd2c20088f6802)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 18:58:30  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:00:20  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:00:21  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (1c9cd0263b1469c3834e47c642cf72dd)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:00:21  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (1c9cd0263b1469c3834e47c642cf72dd)] -> id: mail_or_email_login]
+2018-11-03 19:00:22  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (1c9cd0263b1469c3834e47c642cf72dd)] -> id: user_password_login]
+2018-11-03 19:00:22  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (1c9cd0263b1469c3834e47c642cf72dd)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:00:22  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (1c9cd0263b1469c3834e47c642cf72dd)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:00:27  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:01:44  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:01:45  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (9f2cdaab721565d063bb21586c2dc6c5)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:01:45  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (9f2cdaab721565d063bb21586c2dc6c5)] -> id: mail_or_email_login]
+2018-11-03 19:01:45  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (9f2cdaab721565d063bb21586c2dc6c5)] -> id: user_password_login]
+2018-11-03 19:01:45  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (9f2cdaab721565d063bb21586c2dc6c5)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:01:46  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (9f2cdaab721565d063bb21586c2dc6c5)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:01:50  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:04:59  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:05:00  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2ed7b43fcaf677df08ec6542e91dc504)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:05:00  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (2ed7b43fcaf677df08ec6542e91dc504)] -> id: mail_or_email_login]
+2018-11-03 19:05:00  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (2ed7b43fcaf677df08ec6542e91dc504)] -> id: user_password_login]
+2018-11-03 19:05:00  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2ed7b43fcaf677df08ec6542e91dc504)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:05:01  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2ed7b43fcaf677df08ec6542e91dc504)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:05:01  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:05:01  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:05:01  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:05:11  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:05:19  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:05:20  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2cf261cfe3a21c9212d028c5d855fa5d)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:05:20  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (2cf261cfe3a21c9212d028c5d855fa5d)] -> id: mail_or_email_login]
+2018-11-03 19:05:20  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (2cf261cfe3a21c9212d028c5d855fa5d)] -> id: user_password_login]
+2018-11-03 19:05:20  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2cf261cfe3a21c9212d028c5d855fa5d)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:05:20  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2cf261cfe3a21c9212d028c5d855fa5d)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:05:20  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:05:20  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:05:20  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:05:31  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:05:42  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:05:44  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (8cef4fd31b34e6e760dc9024516e3336)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:05:44  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (8cef4fd31b34e6e760dc9024516e3336)] -> id: mail_or_email_login]
+2018-11-03 19:05:44  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (8cef4fd31b34e6e760dc9024516e3336)] -> id: user_password_login]
+2018-11-03 19:05:44  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (8cef4fd31b34e6e760dc9024516e3336)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:05:44  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (8cef4fd31b34e6e760dc9024516e3336)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:05:49  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:05:56  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:05:57  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2144682875904b4a71a0906c77bee849)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:05:57  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (2144682875904b4a71a0906c77bee849)] -> id: mail_or_email_login]
+2018-11-03 19:05:57  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (2144682875904b4a71a0906c77bee849)] -> id: user_password_login]
+2018-11-03 19:05:57  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2144682875904b4a71a0906c77bee849)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:05:57  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (2144682875904b4a71a0906c77bee849)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:06:01  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:06:07  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:06:08  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (99447eec70b78d15cf028ff561afc54e)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:06:08  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (99447eec70b78d15cf028ff561afc54e)] -> id: mail_or_email_login]
+2018-11-03 19:06:09  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (99447eec70b78d15cf028ff561afc54e)] -> id: user_password_login]
+2018-11-03 19:06:09  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (99447eec70b78d15cf028ff561afc54e)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:06:09  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (99447eec70b78d15cf028ff561afc54e)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:06:09  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:06:09  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:06:09  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:06:19  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:06:26  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:06:27  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (4c52be22929df583874a348ebdb4bb6b)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:06:27  INFO [ActionsWithOurElement] : kozak@test.com was inputed in to input [[ChromeDriver: chrome on XP (4c52be22929df583874a348ebdb4bb6b)] -> id: mail_or_email_login]
+2018-11-03 19:06:27  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (4c52be22929df583874a348ebdb4bb6b)] -> id: user_password_login]
+2018-11-03 19:06:27  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (4c52be22929df583874a348ebdb4bb6b)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:06:27  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (4c52be22929df583874a348ebdb4bb6b)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:06:37  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:06:37  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:06:37  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:06:44  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:06:54  ERROR [ActionsWithOurElement] : Can not work with element 
+2018-11-03 19:07:33  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:07:34  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (561b54be716a9baafdc7b8d476dff083)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:07:34  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (561b54be716a9baafdc7b8d476dff083)] -> id: mail_or_email_login]
+2018-11-03 19:07:34  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (561b54be716a9baafdc7b8d476dff083)] -> id: user_password_login]
+2018-11-03 19:07:34  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (561b54be716a9baafdc7b8d476dff083)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:07:35  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (561b54be716a9baafdc7b8d476dff083)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:07:35  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:08:55  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:08:56  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5fe725a384ba6581f1bccb4f46ce3b4c)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:08:56  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (5fe725a384ba6581f1bccb4f46ce3b4c)] -> id: mail_or_email_login]
+2018-11-03 19:08:56  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (5fe725a384ba6581f1bccb4f46ce3b4c)] -> id: user_password_login]
+2018-11-03 19:08:57  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5fe725a384ba6581f1bccb4f46ce3b4c)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:08:57  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (5fe725a384ba6581f1bccb4f46ce3b4c)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:09:01  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:11:02  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:11:03  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (a7acfa47ecf978ceab88f66a1482823b)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:11:03  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (a7acfa47ecf978ceab88f66a1482823b)] -> id: mail_or_email_login]
+2018-11-03 19:11:03  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (a7acfa47ecf978ceab88f66a1482823b)] -> id: user_password_login]
+2018-11-03 19:11:04  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (a7acfa47ecf978ceab88f66a1482823b)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:11:04  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (a7acfa47ecf978ceab88f66a1482823b)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:11:04  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:11:04  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:11:04  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:11:14  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:12:02  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:12:03  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (ba9322e6e1b2b0b474f1f24de1bae874)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:12:03  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (ba9322e6e1b2b0b474f1f24de1bae874)] -> id: mail_or_email_login]
+2018-11-03 19:12:03  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (ba9322e6e1b2b0b474f1f24de1bae874)] -> id: user_password_login]
+2018-11-03 19:12:03  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (ba9322e6e1b2b0b474f1f24de1bae874)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:12:04  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (ba9322e6e1b2b0b474f1f24de1bae874)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:12:04  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:12:04  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:12:04  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:12:14  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:13:03  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:13:04  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (d33925b30fdcefc4610b56e5ec60cc42)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:13:04  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (d33925b30fdcefc4610b56e5ec60cc42)] -> id: mail_or_email_login]
+2018-11-03 19:13:05  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (d33925b30fdcefc4610b56e5ec60cc42)] -> id: user_password_login]
+2018-11-03 19:13:05  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (d33925b30fdcefc4610b56e5ec60cc42)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:13:05  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (d33925b30fdcefc4610b56e5ec60cc42)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:13:09  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:13:15  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:13:16  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (1fbd455baaedec2af227b917a5684047)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:13:16  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (1fbd455baaedec2af227b917a5684047)] -> id: mail_or_email_login]
+2018-11-03 19:13:16  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (1fbd455baaedec2af227b917a5684047)] -> id: user_password_login]
+2018-11-03 19:13:17  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (1fbd455baaedec2af227b917a5684047)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:13:17  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (1fbd455baaedec2af227b917a5684047)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:13:21  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:13:28  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:13:29  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (990747ca9b3001030aa7238604b969ee)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:13:29  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (990747ca9b3001030aa7238604b969ee)] -> id: mail_or_email_login]
+2018-11-03 19:13:29  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (990747ca9b3001030aa7238604b969ee)] -> id: user_password_login]
+2018-11-03 19:13:29  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (990747ca9b3001030aa7238604b969ee)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:13:29  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (990747ca9b3001030aa7238604b969ee)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:13:29  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:13:29  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:13:29  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:13:39  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:13:46  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:13:47  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0bd505e90cd0806d3dc0afd773b24fe3)] -> xpath: //*[@class='b-complex-header__button b-complex-header__button--login js-get-popup-autification']]
+2018-11-03 19:13:47  INFO [ActionsWithOurElement] : kozak@test.com was inputed in to input [[ChromeDriver: chrome on XP (0bd505e90cd0806d3dc0afd773b24fe3)] -> id: mail_or_email_login]
+2018-11-03 19:13:47  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (0bd505e90cd0806d3dc0afd773b24fe3)] -> id: user_password_login]
+2018-11-03 19:13:47  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0bd505e90cd0806d3dc0afd773b24fe3)] -> xpath: //*[@for='remember_me_login']]
+2018-11-03 19:13:48  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (0bd505e90cd0806d3dc0afd773b24fe3)] -> xpath: //*[@class='b-button b-button--full b-button--confirm-secondary']]
+2018-11-03 19:13:58  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:13:58  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:13:58  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:14:05  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:14:15  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 19:14:16  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (7407bf2443720d01a2f361b292c877e9)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 19:14:16  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (7407bf2443720d01a2f361b292c877e9)] -> id: UserName]
+2018-11-03 19:14:16  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (7407bf2443720d01a2f361b292c877e9)] -> id: Password]
+2018-11-03 19:14:16  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (7407bf2443720d01a2f361b292c877e9)] -> xpath: //*[text()='Войти']]
+2018-11-03 19:14:16  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:14:16  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:14:17  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:14:27  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:14:33  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:14:43  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 19:14:45  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (1ecaed780a37bc6828bff1cbdbc6a9f4)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 19:14:45  INFO [ActionsWithOurElement] : invalid@email.com was inputed in to input [[ChromeDriver: chrome on XP (1ecaed780a37bc6828bff1cbdbc6a9f4)] -> id: UserName]
+2018-11-03 19:14:45  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (1ecaed780a37bc6828bff1cbdbc6a9f4)] -> id: Password]
+2018-11-03 19:14:46  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (1ecaed780a37bc6828bff1cbdbc6a9f4)] -> xpath: //*[text()='Войти']]
+2018-11-03 19:14:46  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:14:46  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:14:56  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:15:04  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:15:14  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 19:15:15  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (a12d32d775ad2c47941e04bb62faff8e)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 19:15:15  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (a12d32d775ad2c47941e04bb62faff8e)] -> id: UserName]
+2018-11-03 19:15:15  INFO [ActionsWithOurElement] : 123 was inputed in to input [[ChromeDriver: chrome on XP (a12d32d775ad2c47941e04bb62faff8e)] -> id: Password]
+2018-11-03 19:15:15  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (a12d32d775ad2c47941e04bb62faff8e)] -> xpath: //*[text()='Войти']]
+2018-11-03 19:15:16  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:15:16  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:15:26  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:15:32  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:15:42  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 19:15:45  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (24828dbaaf99eccdb1fdc0bb942fc3e8)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 19:15:45  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (24828dbaaf99eccdb1fdc0bb942fc3e8)] -> id: UserName]
+2018-11-03 19:15:45  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (24828dbaaf99eccdb1fdc0bb942fc3e8)] -> id: Password]
+2018-11-03 19:15:46  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (24828dbaaf99eccdb1fdc0bb942fc3e8)] -> xpath: //*[text()='Войти']]
+2018-11-03 19:15:46  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:15:46  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:15:56  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:16:02  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:16:12  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 19:16:13  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (241016e3e6a6153dbd444abf63abfeae)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 19:16:14  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (241016e3e6a6153dbd444abf63abfeae)] -> id: UserName]
+2018-11-03 19:16:14  INFO [ActionsWithOurElement] : Invalid password123 was inputed in to input [[ChromeDriver: chrome on XP (241016e3e6a6153dbd444abf63abfeae)] -> id: Password]
+2018-11-03 19:16:19  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (241016e3e6a6153dbd444abf63abfeae)] -> xpath: //*[text()='Войти']]
+2018-11-03 19:16:19  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:16:19  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:16:29  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:16:36  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:16:46  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 19:16:49  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (1be56b4fdfb92886eaa5244e3bbbe8ab)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 19:16:49  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (1be56b4fdfb92886eaa5244e3bbbe8ab)] -> id: UserName]
+2018-11-03 19:16:49  INFO [ActionsWithOurElement] : 123456 was inputed in to input [[ChromeDriver: chrome on XP (1be56b4fdfb92886eaa5244e3bbbe8ab)] -> id: Password]
+2018-11-03 19:16:54  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (1be56b4fdfb92886eaa5244e3bbbe8ab)] -> xpath: //*[text()='Войти']]
+2018-11-03 19:16:54  INFO [ActionsWithOurElement] : Is Element  Present ? - false
+2018-11-03 19:16:54  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:17:01  INFO [pages.MainPage] : Login page was opened
+2018-11-03 19:17:11  INFO [ActionsWithOurElement] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='js-toogle-main-menu b-complex-header__button b-complex-header__button--burger']'
+2018-11-03 19:17:14  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (aafdee75ac867502ebcbfd80c03d7b2d)] -> xpath: //a[@href='https://homsters.kz/account/login']]
+2018-11-03 19:17:14  INFO [ActionsWithOurElement] : test1@uemail99.com was inputed in to input [[ChromeDriver: chrome on XP (aafdee75ac867502ebcbfd80c03d7b2d)] -> id: UserName]
+2018-11-03 19:17:14  INFO [ActionsWithOurElement] :  was inputed in to input [[ChromeDriver: chrome on XP (aafdee75ac867502ebcbfd80c03d7b2d)] -> id: Password]
+2018-11-03 19:17:15  INFO [ActionsWithOurElement] : Element was clicked [[ChromeDriver: chrome on XP (aafdee75ac867502ebcbfd80c03d7b2d)] -> xpath: //*[text()='Войти']]
+2018-11-03 19:17:15  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:17:15  INFO [ActionsWithOurElement] : Is Element  Present ? - true
+2018-11-03 19:17:25  INFO [ActionsWithOurElement] : Is Element  Present ? - false
